@@ -1,0 +1,18 @@
+
+The code uses GPU...
+Start creating data
+Pre-processed data found: data/processed/independent_gat_1252_drug1.pt, loading ...
+Pre-processed data found: data/processed/independent_gat_1252_drug2.pt, loading ...
+Data created successfully
+preparing  independent_gat_1252 in pytorch format!
+Pre-processed data found: data/processed/independent_gat_1252_drug1.pt, loading ...
+Pre-processed data found: data/processed/independent_gat_1252_drug2.pt, loading ...
+ROC AUC: 0.8067125996810207
+PR AUC: 0.8093412212485089
+ACC: 0.8250798722044729
+BACC: 0.8249020733652312
+PREC: 0.9176954732510288
+TPR: 0.7136
+KAPPA: 0.6500347172585619
+Recall: 0.7136
+F1 Score: 0.802880288028803
