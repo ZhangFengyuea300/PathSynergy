@@ -10,4 +10,7 @@ train_model_b.py is a train model by model_b\\
 ensemble_train.py is a train model by PathSynergy
 predict_independent.py or predict_sorafenib is a validation model for predicting novel drug pairs 
 
+Additional data is available on Google Cloud Drive
+https://drive.google.com/file/d/1-ndMYuyJugvAqechWNlYuehIvzCFj6yJ/view?usp=drive_link
+
 
